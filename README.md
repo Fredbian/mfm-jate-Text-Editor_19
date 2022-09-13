@@ -39,16 +39,14 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
-## Installation
-* Install API
-```
-npm i
-```
+## Installation and Start
+This program can be run through a browser using the link to the the deployed application. Alternatively, to run this application locally you will need to:
 
-* Start App
-```
-npm start
-```
+* Clone this repository to receive all of the files.
+* Run `npm install` in the command line of your terminal to set up all of the dependencies.
+* Run `npm start` to start the backend and serve the client.
+* Go to the url of the application (http//:localhost:3001) to begin using it.
+
 
 ## Screenshots
 
