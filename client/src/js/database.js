@@ -17,11 +17,11 @@ export const putDb = async (content) => {
   console.log('PUT to database');
 
   //connect to DB 
-  const textDb = await openDB('text',1)
+  const textDb = await openDB('jate',1)
   //make new transaction, and set data of "readwrite"
-  const tx = textDb.transaction('text','readwrite')
+  const tx = textDb.transaction('jate','readwrite')
   //open object store
-  const store = tx.objectStore('text')
+  const store = tx.objectStore('jate')
   //use .put() method to pass in content
   const request = store.put({ id:1, value: content })
   //confirm teh data was added
@@ -33,14 +33,14 @@ export const putDb = async (content) => {
 // TODO: Add logic for a method that gets all the content from the database
 export const getDb = async () => {
   console.log('GET all from database')
-
-  //connect to db
-  const textDb = await openDB('text', 1)
+ 
+//connect to db
+  const textDb = await openDB('jate', 1)
 
   // make new transaction, and set data to 'readonly' 
-  const tx = textDb.transaction('text', 'readonly')
+  const tx = textDb.transaction('jate', 'readonly')
   //open the object store
-  const store = tx.objectStore('text')
+  const store = tx.objectStore('jate')
   //use .getAll() method to grab all the content in DB
   const request = store.getAll()
   //confirm the data was fetched
