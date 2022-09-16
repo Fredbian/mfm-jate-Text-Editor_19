@@ -52,6 +52,6 @@ This program can be run through a browser using the link to the the deployed app
 
 
 ## URLs
-* Github: 
-* Heroku deployed link: 
+* Github: https://github.com/Fredbian/mfm-jate-Text-Editor_19 
+* Heroku deployed link: https://mfm-jate-text-editor-19.herokuapp.com/ 
 
