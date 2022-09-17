@@ -51,6 +51,7 @@ This program can be run through a browser using the link to the the deployed app
 ## Screenshots
 ![Screenshot](https://github.com/Fredbian/mfm-jate-Text-Editor_19/blob/main/assets/img/mfm-jate-text-editor-19.herokuapp.com_.png)
 ![Screenshot](https://github.com/Fredbian/mfm-jate-Text-Editor_19/blob/main/assets/img/WeChat%20Photo%20Editor_20220917110632.jpg)
+![Screenshot](https://github.com/Fredbian/mfm-jate-Text-Editor_19/blob/main/assets/img/WeChat%20Photo%20Editor_20220917110632.jpg)
 
 
 ## URLs
