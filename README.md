@@ -49,6 +49,8 @@ This program can be run through a browser using the link to the the deployed app
 
 
 ## Screenshots
+![Alt text](https://github.com/Fredbian/mfm-jate-Text-Editor_19/tree/main/assets/img)
+![Alt text](https://github.com/Fredbian/mfm-jate-Text-Editor_19/blob/main/assets/img/mfm-jate-text-editor-19.herokuapp.com_.png)
 
 
 ## URLs
